@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=SPEED1_A Pin=P2-3
+Removed Pin From Net: NetName=SPEED1_B Pin=P2-4
+Removed Pin From Net: NetName=SPEED2_A Pin=P3-3
+Removed Pin From Net: NetName=SPEED2_B Pin=P3-4
+Added Pin To Net: NetName=SPEED1_B Pin=P2-3
+Added Pin To Net: NetName=SPEED1_A Pin=P2-4
+Added Pin To Net: NetName=SPEED2_B Pin=P3-3
+Added Pin To Net: NetName=SPEED2_A Pin=P3-4

@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=CSN Pin=STM1-20
+Added Pin To Net: NetName=CAN_H Pin=*1-7
+Added Pin To Net: NetName=CAN_H Pin=C15-2
+Added Pin To Net: NetName=CAN_H Pin=R27-1
+Added Pin To Net: NetName=CSN Pin=STM1-2

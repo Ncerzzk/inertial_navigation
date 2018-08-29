@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=VIN Pin=P1-1
+Removed Pin From Net: NetName=GND Pin=P1-2
+Removed Pin From Net: NetName=CAN_H Pin=P1-5
+Removed Pin From Net: NetName=CAN_L Pin=P1-6
+Added Pin To Net: NetName=CAN_H Pin=P1-1
+Added Pin To Net: NetName=CAN_L Pin=P1-2
+Added Pin To Net: NetName=VIN Pin=P1-5
+Added Pin To Net: NetName=GND Pin=P1-6
+Added Class: Name=全场定位

@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=TPS NewDesignator=*1
+Added Pin To Net: NetName=GND Pin=QS1-2
+Added Pin To Net: NetName=RING Pin=STM1-20
